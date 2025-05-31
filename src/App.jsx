@@ -33,7 +33,7 @@ function MealsList({mealsList}) {
 function App() {
 
     const [state, setState] = useState("Opens");
-
+    console.log("j");
     return (
 
         <div>
